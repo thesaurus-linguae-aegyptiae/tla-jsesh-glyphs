@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="15.35"
+   height="14"
+   id="svg1453"
+   sodipodi:version="0.32"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="US9N145XT.svg"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata1460">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>10/01/2006</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Serge Thomas</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Serge Rosmorduc</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>US22</dc:identifier>
+        <dc:description>moitié de ciel, dans formule concernant le roi : voir dossier joint</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1458" />
+  <sodipodi:namedview
+     inkscape:window-height="1137"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="33.019293"
+     inkscape:cx="7.0413379"
+     inkscape:cy="5.9964942"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:current-layer="svg1453"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:window-maximized="1" />
+  <path
+     id="path1455"
+     style="fill:#000000;stroke:none"
+     d="m 0,0 0.02734375,4.8925781 10.90009125,0.030285 2.523437,4.9472657 h 1.833985 V 0.03028532 Z m 0.671875,0.671875 13.941107,0.0302853 0.101562,8.5957031 H 13.884466 L 11.433295,4.2744259 0.69726562,4.2441406 Z M 6.2702344,5.9814335 C 4.0410699,6.11685 2.8587759,7.299144 2.7233594,9.5283085 2.8587759,11.36164 3.6764859,12.476226 5.1764844,12.872059 h -2.453125 v 1.03125 h 7.078125 v -1.03125 H 7.3483594 C 8.8483579,12.476226 9.6660678,11.36164 9.8014844,9.5283085 9.6660678,7.3095607 8.4889822,6.1272666 6.2702344,5.9814335 Z m 0,0.90625 C 7.8952327,7.0335166 8.7754428,7.9137267 8.9108594,9.5283085 8.7441929,11.122057 7.8639828,12.002267 6.2702344,12.168934 4.676486,12.002267 3.7962759,11.122057 3.6296094,9.5283085 3.7754426,7.9137267 4.6556527,7.0335166 6.2702344,6.8876835 Z"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+</svg>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg1342"
+   sodipodi:version="0.32"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   width="18"
+   height="18"
+   sodipodi:docname="US9U7VARA.svg"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata1347">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>05/02/2006</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Serge Thomas</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Serge Rosmorduc</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:description>valeur : mr orientation différente de U6</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1345" />
+  <sodipodi:namedview
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="30.25826"
+     inkscape:cx="18.639538"
+     inkscape:cy="8.0639138"
+     inkscape:window-x="1072"
+     inkscape:window-y="-8"
+     inkscape:current-layer="svg1342"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-maximized="1" />
+  <path
+     style="fill:#000000;stroke:none;stroke-width:0.92786"
+     d="M 14.774626,4.1596707 C 15.463963,4.7781914 15.403824,5.1862902 14.59421,5.383967 L 9.1418971,5.0285272 c -0.2166968,1.1256968 -0.198319,2.2317473 0.055133,3.3181522 3.2163689,1.348459 5.8271019,2.1070686 7.8321959,2.2758286 0.603129,0.09088 0.969877,0.04829 0.949371,0.667822 -0.02051,0.619534 -0.393636,0.600228 -0.393636,0.600228 C 14.853741,11.400887 12.02288,10.541017 9.0923759,9.3109483 8.625169,9.7185517 8.2128228,9.486281 7.8553381,8.6141365 5.7940043,7.4103712 4.5302415,6.6160792 4.0640505,6.2312604 3.5978592,5.846441 2.604549,4.6649304 2.604549,4.6649304 L 0.08516673,4.4984942 C -0.12443739,4.3032714 -0.12527217,3.5102355 0.22406004,3.5185896 L 2.1514542,3.6342601 C 1.7508274,3.1181606 1.325374,1.6331864 1.325374,1.6331864 1.4752894,1.5278019 2.2007513,1.5047181 2.3256808,1.6506348 c 0,0 0.3640171,1.1643365 0.9649573,2.0703779 1.4889185,0.089356 3.3580042,0.183141 4.6429986,0.2602585 C 8.455951,3.3631147 8.9471131,3.3498693 9.4071225,3.9415351 Z M 8.3266469,4.9189049 3.820303,4.6742415 C 5.0636931,5.829396 6.5261378,6.8592428 8.2076371,7.7637817 8.3662115,6.716193 8.4058813,5.7679009 8.3266469,4.9189049 Z"
+     id="path1335"
+     sodipodi:nodetypes="ccccczcccscccccccccccccc" />
+</svg>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="7"
+   height="18"
+   id="svg1290"
+   sodipodi:version="0.32"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="US9W19VARA.svg"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="43.777778"
+     inkscape:cx="2.8781726"
+     inkscape:cy="9.1598984"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1072"
+     inkscape:window-y="-8"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/2.0/" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>JSesh hieroglyph</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Serge Rosmorduc</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Sign from Karnak Hypostyle Hall
+</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1429"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:30.7679;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+       d="m 3.5390625,0.00585938 c -1.2588564,0 -2.70117188,0.73345516 -2.70117188,2.24218752 -0.0721161,0.9209414 0.0185621,1.8490051 0.11328126,2.765625 0.28573892,2.2816102 1.13630372,4.4306234 1.83593752,6.6054691 -0.012887,0 -0.3166699,0.0024 -0.4960938,0.0039 C 2.1372201,10.213468 1.144451,8.8320178 0.74609375,8.8789062 0.37187512,8.9229532 1.662275,10.438894 1.671875,11.625 c 0.4016835,0.0059 -0.85194407,0.01185 -1.03125,0.01367 l -0.0234375,1.08789 1.7128906,-0.03125 c -0.3971449,0.197562 -0.6741482,0.500695 -0.9433593,0.722657 -0.55083038,0.644637 -0.63000711,1.106883 -0.71875005,1.751953 -0.0734438,0.533861 0.19274636,0.926222 0.42382815,1.345703 0.4425052,0.803276 1.3374458,1.466797 2.3945312,1.466797 1.0275517,0 2.0387351,-0.825001 2.4160157,-1.613281 0.2361333,-0.49336 0.3633564,-0.986552 0.3691406,-1.337889 0.011109,-0.6748 -0.5127252,-1.122512 -0.828125,-1.613281 C 5.1741193,13.196 4.8971911,12.892897 4.5,12.695312 l 1.7128906,0.04297 v -1.09961 L 5.2617188,11.613281 C 5.2712849,10.427175 6.5617187,8.9092813 6.1875,8.8652344 5.7878557,8.8181947 4.7894594,10.208744 4.640625,11.623047 c 0,0 -0.3845901,-0.003 -0.4238281,-0.0039 0.00653,-0.03665 1.8161416,-5.0741856 1.90625,-7.7207035 C 6.1920558,2.9021113 6.2896978,1.7795657 5.6308594,0.9453125 5.2195766,0.37254271 4.7861697,0.00585938 3.5390625,0.00585938 Z m -0.029297,0.58984374 c 0.664774,0 1.1129501,0.10040086 1.4882813,0.52929688 C 5.5128116,1.6435301 5.6112517,2.4129591 5.5625,3.1132812 5.55313,4.7231306 5.2723432,6.3205131 4.8066406,7.8574219 4.442091,9.1225952 4.0057234,10.364764 3.6074219,11.619141 H 3.4140625 C 3.3970294,11.557325 1.513842,6.3369933 1.4296875,3.6289062 1.4151719,2.8404015 1.3020993,1.9475149 1.8359375,1.2910156 2.1660405,0.83301176 2.8332521,0.59570313 3.5097655,0.59570312 Z M 3.3574219,12.865234 c 0.1593593,-0.0053 0.3380618,-0.0024 0.5625,0.02344 -3.05e-5,0.123685 0.076362,0.233418 0.1914062,0.27539 0.1689281,0.06163 0.3249649,0.173386 0.484375,0.304688 0.4476525,0.406131 0.6756924,0.70831 0.8105469,0.982422 0.3373147,0.797947 -0.02948,1.465772 -0.3222656,2.044922 -0.3133087,0.470796 -0.9389049,0.90039 -1.5976563,0.90039 -0.7120537,0 -1.4036004,-0.418084 -1.7382812,-0.90039 -0.4169526,-0.738531 -0.5675261,-1.182562 -0.3105469,-2 0.1792838,-0.570293 0.4524609,-0.593334 0.796875,-1.027344 0.1594104,-0.131302 0.3154466,-0.243057 0.484375,-0.304688 0.1150437,-0.04197 0.1914364,-0.151705 0.1914062,-0.27539 0.147889,-0.0045 0.2879063,-0.01811 0.4472657,-0.02344 z"
+       sodipodi:nodetypes="sccccscccccssscscccccsccccsscccccccsscscccscscccs" />
+    <ellipse
+       style="fill:#000000;fill-opacity:0"
+       id="path3465"
+       cx="3.6091371"
+       cy="14.379441"
+       rx="0.50253808"
+       ry="1.1535532" />
+    <rect
+       style="fill:#000000;fill-opacity:0"
+       id="rect3527"
+       width="5.6878171"
+       height="1.1192893"
+       x="0.70812184"
+       y="11.626904" />
+    <rect
+       style="fill:#000000;fill-opacity:0"
+       id="rect3529"
+       width="6.3274112"
+       height="1.3248731"
+       x="0.2969543"
+       y="11.604061" />
+  </g>
+</svg>

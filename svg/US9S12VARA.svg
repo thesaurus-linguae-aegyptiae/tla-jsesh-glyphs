@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1799.3433"
+   height="693.29755"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   version="1.0"
+   sodipodi:docname="US9S12VARA.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.33589188"
+     inkscape:cx="915.47317"
+     inkscape:cy="345.34923"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Serge Rosmorduc</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>S12 sign from Luxor obelisk in Paris</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.09386px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 845.04674,0.0044 C 534.8738,0.1539 304.459,1.9833 201.97031,18.5005 158.78475,25.4601 113.64815,46.0155 76.567174,77.1946 39.486203,108.3736 9.8692327,151.5259 6.2514019,203.2758 -4.5737058,358.1199 0.8489861,511.9616 6.1897479,664.752 l 1.0172828,28.5455 h 28.5763793 65.8459 31.93649 l -2.40448,-31.8132 c -5.56179,-73.3488 -8.64669,-163.7708 -7.39842,-245.6581 1.24827,-81.8874 7.60495,-156.7264 17.63289,-192.2663 10.98503,-38.9322 39.07199,-64.0878 66.3083,-66.6783 14.03451,-1.3349 27.84911,-2.4888 41.55443,-3.4526 34.57299,19.6146 252.09069,141.3459 392.02353,179.5041 108.02302,29.4565 195.70869,33.6627 264.61665,33.6628 68.90803,0 156.5937,-4.2064 264.6166,-33.6628 138.1116,-37.6615 351.8251,-156.7196 390.6056,-178.6717 10.0853,0.7759 20.2403,1.6417 30.5183,2.6202 30.1688,2.8724 55.5067,22.046 66.3084,60.3279 9.9751,35.353 16.384,111.9489 17.6329,195.4414 1.2488,83.4927 -1.8391,175.5163 -7.3985,248.8334 l -2.4044,31.8132 h 31.9365 65.8459 28.5763 l 1.0173,-28.5455 c 5.3407,-152.7903 10.7635,-306.632 -0.062,-461.4762 -3.625,-51.8511 -33.6738,-94.3275 -70.7474,-124.9407 C 1685.2706,47.7219 1640.4969,27.4934 1598.7291,18.7471 1550.3425,8.6145 1464.6344,4.7247 1344.8401,2.4088 1225.0457,0.093 1072.9298,0.0044 899.6713,0.0044 c -18.46842,0 -36.68108,-0.01 -54.62496,0 z m 15.44419,59.1874 c 12.93307,-0.01 25.99741,0 39.18077,0 173.2394,0 325.1773,0.076 444.0282,2.3736 118.8509,2.2975 206.3888,7.4563 242.9146,15.1051 31.7031,6.6388 69.4701,23.7059 98.029,47.2882 28.559,23.5823 47.2323,52.2227 49.4152,83.448 9.88,141.323 5.8026,283.5769 0.8632,426.7035 h -5.7029 c 4.3227,-69.0329 6.6578,-148.2159 5.5488,-222.3532 -1.2802,-85.5897 -6.1137,-161.9163 -19.8524,-210.6082 -16.5252,-58.5663 -63.5955,-98.0291 -117.6656,-103.1771 -198.018,-18.8525 -350.7805,-0.1233 -697.1157,-0.1233 -346.33505,1e-4 -499.78266,-18.733 -698.04048,0.1233 -57.0039,5.4218 -101.3241,51.5806 -117.66563,109.4965 -13.686047,48.5049 -18.571548,123.4384 -19.852414,207.464 -1.108579,72.7234 1.203166,150.5441 5.517985,219.178 H 64.421442 C 59.482099,490.9836 55.40473,348.7296 65.284591,207.4067 67.474598,176.0804 86.271464,146.3875 114.66901,122.5098 143.06656,98.6321 180.47113,81.928 211.37247,76.948 301.41801,62.4361 542.33731,59.4053 860.49093,59.1918 Z m -466.2543,89.6132 c 127.91471,0.014 273.14965,8.2308 505.89747,8.2307 257.2282,0 407.204,-10.0105 545.109,-7.9224 -84.6303,43.9751 -208.6186,104.4563 -290.2952,126.7287 -101.6158,27.7094 -182.48788,31.5665 -249.0492,31.5666 -66.56132,0 -147.43331,-3.8573 -249.04915,-31.5666 -81.77442,-22.299 -205.96629,-82.8947 -290.60359,-126.8828 9.24885,-0.094 18.58218,-0.1552 27.99067,-0.1542 z"
+     id="path2303"
+     sodipodi:nodetypes="scssccccccssscssscsssccccccssssscscssssccsscssssccsscscscsssccs" />
+</svg>

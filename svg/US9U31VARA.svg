@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1793.7545"
+   height="941.25586"
+   viewBox="0 0 1793.7545 941.25586"
+   version="1.1"
+   id="svg10448"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="US9U31VAR.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10450"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.31723122"
+     inkscape:cx="953.56315"
+     inkscape:cy="529.58218"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10448"
+     showguides="true" />
+  <defs
+     id="defs10445">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1">
+      <path
+         d="M 0,0 H 105.05875 V 55.079346 H 0 Z"
+         id="path253" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <path
+     id="path1329"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:97.9447;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+     d="M 382.20249,0 C 353.84781,1.8319 84.197721,162.93276 18.798189,201.85352 -11.503282,223.2777 -3.3222501,273.6358 30.534517,286.77149 L 209.75717,473.54686 18.534517,682.01566 c -30.190971,21.6219 -21.6648201,71.9718 12.310547,84.8672 l 329.993576,168.407 c 55.74637,24.5166 86.48922,-32.0267 61.33594,-69.8652 l -276.18499,-145.1727 173.79883,-197.7051 2.90625,-0.6523 1430.06453,303.584 c 45.3857,0.6748 53.3123,-61.4706 22.6543,-95.5743 L 551.73178,470.44146 1766.0209,197.65821 c 41.6572,-14.70463 24.0835,-76.98283 -14.1446,-102.3125 L 319.85092,424.60936 146.02085,240.99805 C 204.07159,207.06638 353.71234,121.88981 411.26499,87.18164 442.22415,64.78227 431.36755,10.62255 394.17319,1.87696 390.28129,0.75806 386.24988,0.1279 382.20249,0 Z"
+     sodipodi:nodetypes="ccccccccccccccccccccc" />
+</svg>

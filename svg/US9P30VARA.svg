@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="23.448"
+   height="13.2"
+   id="svg7500"
+   sodipodi:version="0.32"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="US9P30VARA.svg"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata7507">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Serge Rosmorduc</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Serge Thomas</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>8/12/06</dc:date>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:description>Pour exprimer P30
+FCD p.63 ( wnDwt ) : PT Spruch 359 Schluss § 602c  (Pepy I)</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7505" />
+  <sodipodi:namedview
+     inkscape:window-height="1137"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="40.384424"
+     inkscape:cx="9.1990912"
+     inkscape:cy="6.6114599"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:current-layer="svg7500"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:window-maximized="1" />
+  <path
+     style="fill:#000000;stroke:none"
+     d="M 13.060018,8.825483 V 4.626462 c 0,-0.2153347 -0.193801,-0.323002 -0.581403,-0.323002 -0.387602,0 -0.581403,0.5168027 -0.581403,1.550408 0,0.4737353 -0.351713,0.710603 -1.055138,0.710603 -1.0766725,0 -1.8590541,0.660359 -2.3471448,1.981077 1.9954318,0.3158233 3.5171278,0.409135 4.5650888,0.279935 z m 4.349755,3.617618 V 11.452562 H 4.8342432 v 0.969005 z M 3.9785703,0.35084566 C 4.251327,0.00631036 3.9933293,0.0848916 4.7398216,0.0418249 5.3714696,0.0274699 5.6837191,0.05439349 6.1718104,0.37021679 L 5.0352451,4.5635642 2.6808992,5.940002 c 1.6078307,1.2489393 3.294617,2.0887437 5.060359,2.519413 0.5024473,-1.722676 1.5504083,-2.584014 3.1438828,-2.584014 0.172267,0 0.251223,-0.093312 0.236868,-0.279935 0,-1.292006 0.455791,-1.941598 1.367373,-1.948776 0.911583,-0.00718 1.367374,0.2548123 1.367374,0.785971 v 4.349755 c 2.253833,-0.2727567 4.321043,-0.9402933 6.20163,-2.00261 -0.760849,-0.351713 -1.830343,-1.5461128 -1.830343,-1.5461128 0,0 -0.69374,-3.3375973 -0.851652,-4.60807037 0.78956,-0.3445353 1.564764,-0.2942907 2.325613,0.150734 -0.165089,0.97618267 0.620168,4.02666737 0.620168,4.02666737 0,0 1.652691,1.1082658 3.073899,1.5676458 -3.316151,2.6557913 -5.993476,4.098532 -8.031975,4.328222 h 2.799347 v 2.476346 H 4.0590392 v -2.476346 h 3.31615 C 5.0352219,10.067245 2.2150904,8.0603681 0.00432373,6.0649354 0.10590845,5.9866429 3.1849099,3.8113318 3.1849099,3.8113318 Z m 0.4877458,0.42205009 c 0,0 -0.8952853,3.40438875 -0.9120947,3.43139965 L 0.91948096,6.0692306 C 7.5690195,12.041864 15.076984,12.069854 22.254797,6.499871 21.163769,6.0189573 19.789219,5.0398919 19.789219,5.0398919 c 0,0 -0.563832,-3.0292972 -0.578188,-3.7973232 -0.272757,-0.30146807 -0.867421,-0.31582377 -1.140178,-0.043067 0.136378,0.969005 0.753685,3.8393309 0.753685,3.8393309 0,0 1.55685,1.238526 2.482788,1.5687054 C 14.76116,10.727603 8.0325961,10.412785 1.6116722,6.055114 L 4.584519,4.172272 5.4181394,0.69321879 c -0.602936,-0.244046 -0.391954,-0.25050304 -0.9518233,0.079677 z"
+     id="path7502"
+     sodipodi:nodetypes="csssscccccccccccccscssccccccccccccccccccccccccccccc" />
+</svg>

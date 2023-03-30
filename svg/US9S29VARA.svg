@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   sodipodi:docname="US9S29VARA.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:version="0.32"
+   id="svg1290"
+   height="1800"
+   width="780"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1137"
+     inkscape:window-width="1920"
+     inkscape:current-layer="layer2"
+     inkscape:document-units="px"
+     inkscape:cy="914.58002"
+     inkscape:cx="166.72032"
+     inkscape:zoom="0.41986485"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/2.0/" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>JSesh hieroglyph</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Serge Rosmorduc</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Sign from Karnak Hypostyle Hall
+</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     inkscape:label="fdfsd"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <path
+       id="path2823"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:93.3563;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+       d="M 74.546328,1.958125 73.851016,2.1358593 C 48.516096,7.0846944 21.427946,34.245933 32.175573,39.17526 55.080634,65.13436 98.34419,111.44842 121.24945,137.40734 101.21711,178.14211 36.108441,231.1683 4.2763285,262.65421 17.585366,283.51427 37.319349,301.52425 53.69625,320.75382 c 87.65517,83.97565 181.1578,156.88736 283.33502,205.07705 49.97129,32.28064 107.14823,57.36359 164.68693,74.14483 -46.7077,18.71189 -78.65039,50.62478 -78.65039,87.6582 v 1108.543 h 113.75 V 725.39953 c 0,-29.04066 37.90306,-38.43555 61.71875,-38.43555 24.98949,0 63.46875,11.79689 63.46875,47.38086 v 690.83006 h 113.75 V 696.57922 c 0,-59.28353 -87.17657,-114.28125 -177.9375,-114.28125 -10.05721,0 -19.93938,0.63711 -29.64063,1.67187 -1.88412,-2.24318 -4.50992,-4.47716 -8.08593,-6.63086 C 401.98488,383.0354 241.43031,190.66421 75.837344,2.6807812 Z M 155.47015,179.93078 c 110.00024,124.90407 222.47837,252.98103 314.625,361.9082 C 333.43802,461.74548 179.77345,381.40276 73.522422,264.08585 92.253318,244.82735 141.73652,203.19931 155.47015,179.93078 Z"
+       sodipodi:nodetypes="ccccccccsccsssccsscccccccc" />
+  </g>
+</svg>
