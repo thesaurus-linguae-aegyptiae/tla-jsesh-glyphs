@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1241.4828"
+   height="1808.9518"
+   id="svg3328"
+   sodipodi:version="0.32"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="US9D28VARA.svg"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata3335">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:description>variante optimisée du signe D28 de Jsesh.
+valeur phonétique :kA</dc:description>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>SR &amp; ST</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Serge Rosmorduc</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:date>17/04/06</dc:date>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3333" />
+  <sodipodi:namedview
+     inkscape:window-height="1137"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.21682013"
+     inkscape:cx="94.548417"
+     inkscape:cy="1116.1325"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:current-layer="svg3328"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:window-maximized="1" />
+  <path
+     id="path2958"
+     style="fill:#000000;stroke:none;stroke-width:83.0466"
+     d="M 1076.5285,679.89319 C 954.08058,677.47458 925.02458,814.70824 925.02458,920.9557 c 0,106.2474 50.662,136.1518 85.45122,247.4765 -16.62372,163.0339 -40.00742,338.0645 -46.02542,475.6192 -94.6261,15.3076 -210.8232,25.0481 -348.58788,29.2226 -136.37301,-4.1748 -251.87379,-13.9153 -346.5,-29.2226 0,-157.2465 -25.83137,-314.4939 -38.35547,-471.7402 34.78908,-111.325 85.45118,-141.2292 85.45118,-247.47659 0,-106.24749 -29.05603,-243.48112 -151.50391,-241.06251 C 42.506419,686.19071 -4.6534314,824.7602 0.35859864,919.74476 5.3705986,1014.7293 71.375909,1088.1014 139.16524,1214.0572 c -13.91563,104.3671 -4.78442,247.6998 -11.74219,429.9942 -5.56624,61.2287 11.13197,100.89 50.0957,118.9805 115.49965,30.6139 261.61548,45.9199 438.34375,45.9199 178.11978,0 324.23568,-15.306 438.3438,-45.9199 40.3553,-18.0905 57.7499,-57.7518 52.1835,-118.9805 9.6465,-205.6191 7.5087,-348.7219 -1.539,-438.3848 66.8846,-123.082 131.3244,-196.0088 136.2734,-289.80074 5.012,-94.98459 -42.1477,-233.55406 -164.5957,-235.97267 z m 0,69.52734 c 83.0843,0 103.276,116.16431 101.9766,166.44533 -1.2995,50.28102 -40.909,125.99314 -101.9766,133.58784 -34.6331,4.3072 -96.45122,-47.6282 -96.45122,-131.95698 0,-84.32886 13.367,-168.07618 96.45122,-168.07619 z m -911.5742,3.87891 c 83.08429,0 96.45117,83.74735 96.45117,168.07618 0,84.32888 -61.81781,136.26418 -96.45117,131.95698 C 103.88688,1045.7379 64.277159,970.02578 62.977739,919.74476 61.678319,869.46374 81.870009,753.29944 164.9543,753.29944 Z"
+     sodipodi:nodetypes="sscccccssscccscccssssssssssss" />
+</svg>

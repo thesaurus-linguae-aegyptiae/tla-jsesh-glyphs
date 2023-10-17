@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1800"
+   height="1800"
+   id="svg1333"
+   sodipodi:version="0.32"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="US9H100VARA.svg"
+   version="1.0"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata1340">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>SR &amp; ST</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>18/03/06</dc:date>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Serge Rosmorduc</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:description>optimisation et calibrage d'un signe relevé par SR sur paroi de Karnak</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1338" />
+  <sodipodi:namedview
+     inkscape:window-height="1137"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.49555556"
+     inkscape:cx="898.99103"
+     inkscape:cy="900"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:current-layer="svg1333"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:window-maximized="1" />
+  <path
+     id="path1335"
+     style="fill:#000000;stroke:none;stroke-width:85.4836"
+     d="M 415.39453 2.3925781 C 388.88613 2.4358623 360.77778 7.3921109 331.06836 17.261719 C 271.64957 37.000914 249.56988 81.721144 264.82812 151.41992 C 280.08635 221.11876 324.59695 261.26924 398.36133 271.87305 C 402.94375 281.86909 409.85736 304.97456 419.10352 341.1875 C 428.34968 377.40048 440.56814 459.04144 455.75586 586.11133 C 470.43668 707.22014 486.33368 809.23904 503.44727 892.16797 C 611.21445 880.89371 704.93974 900.1048 784.625 949.80078 L 849.26367 1202.9648 C 815.73198 1215.3191 790.66739 1243.648 788.4082 1273.8613 C 784.74322 1322.8756 762.96099 1395.7033 745.99609 1484.5566 C 729.03089 1573.4103 658.07239 1601.5719 495.96094 1600.5078 C 333.84986 1600.5078 262.89098 1572.0792 245.92578 1483.7578 C 228.96077 1395.4363 212.24047 1325.5605 203.51172 1273.0645 C 190.63085 1195.5967 112.67344 1194.8516 2.0859375 1194.8516 L 2.0859375 1797.4023 L 1796.623 1797.4023 L 1796.623 1194.8516 C 1684.7794 1194.8516 1602.6601 1191.8576 1594.2539 1273.0645 C 1588.7965 1325.7826 1569.7485 1395.4363 1552.7832 1483.7578 C 1535.8183 1572.0792 1464.8591 1600.5078 1302.748 1600.5078 C 1140.6366 1601.5719 1069.6761 1573.4103 1052.7109 1484.5566 C 1035.7459 1395.7033 1014.691 1325.1812 1010.2988 1273.8613 C 1007.8403 1245.1324 982.33594 1219.7723 950.46875 1206.4336 L 688.17773 339.48242 C 667.65324 270.89139 649.24232 203.55275 615.21289 131.23633 C 578.43167 74.646135 536.73394 36.56798 490.11914 17.001953 C 466.81175 7.2189134 441.90293 2.349294 415.39453 2.3925781 z M 415.72266 52.082031 C 446.67168 53.062011 477.49252 64.95516 508.18555 87.761719 C 543.26336 113.82633 575.33051 169.84229 604.38672 255.8125 C 633.44299 341.78276 693.8372 540.55029 785.56836 852.11133 C 722.00282 829.76763 640.95885 818.48409 542.4375 818.26172 C 530.96087 765.36166 518.61146 681.21707 505.39062 565.82617 C 491.25739 458.789 477.37787 378.58526 463.75195 325.21875 C 454.26249 288.05283 442.64384 254.47642 428.89648 224.48828 C 401.92925 222.23781 378.27288 214.06631 357.92578 199.97461 C 337.57867 185.88288 322.79229 162.7593 313.56641 130.60156 C 309.65304 111.29881 314.63486 94.037626 328.51367 78.820312 C 342.39253 63.603026 367.03905 54.773607 402.45117 52.330078 C 406.87768 52.024635 411.30137 51.942034 415.72266 52.082031 z M 894.70898 1245.6992 L 899.35352 1245.6992 C 928.25672 1251.0197 946.4794 1257.9004 954.01953 1297.8047 C 961.55948 1337.709 974.44027 1405.813 992.66211 1502.1152 C 1010.884 1598.4177 1114.2463 1648.6968 1302.748 1652.9531 C 1491.2493 1648.6968 1594.2972 1598.151 1611.8906 1501.3164 C 1629.4844 1404.4821 1643.6209 1336.3781 1654.3027 1297.0059 C 1664.9842 1257.6337 1678.1375 1246.3461 1730.918 1247.4102 L 1730.918 1744.957 L 67.791016 1744.957 L 67.791016 1247.4102 C 120.57136 1246.3461 133.72261 1257.6337 144.4043 1297.0059 C 155.08616 1336.3781 169.22487 1404.4821 186.81836 1501.3164 C 204.41184 1598.151 307.45975 1648.6968 495.96094 1652.9531 C 684.46257 1648.6968 787.82334 1598.4177 806.04492 1502.1152 C 824.2672 1405.813 837.14966 1337.709 844.68945 1297.8047 C 852.22956 1257.9004 865.80546 1251.0197 894.70898 1245.6992 z " />
+</svg>

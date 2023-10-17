@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="925.65002"
+   height="864.61957"
+   id="svg1609"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata1616">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>18/02/06</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Serge Thomas</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Serge Rosmorduc</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:description>optimisation et régularisation du signe de Jsesh
+valeur :Xr</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1614" />
+  <path
+     style="fill:#000000;stroke:none;stroke-width:100"
+     d="M 0,792 216.15,0 h 465.3 l 244.2,792 C 616.24459,891.24324 274.37838,886.37838 0,792 Z m 107.25,-72.6 c 65.18919,28.21622 125.27432,34.05405 125.27432,34.05405 L 389.79189,321.31173 264,143.55 Z m 562.43919,38.91892 c 0,0 63.00415,-6.81081 141.81496,-45.72973 L 636.9,143.55 514.03998,321.23954 Z m -382.03784,9.72973 c 102.16216,28.21621 245.18108,30.16216 330.8027,0.97297 L 456.28998,321.23954 617.1,72.6 H 282.15 l 165.39189,248.71173 z"
+     id="path1611" />
+</svg>
