@@ -1,4 +1,4 @@
-The glyph SVGs in this are often based on model from the JSesh Glyph library, notably those made by S.J.P. Thomas (see https://jsesh.qenherkhopeshef.org/glyphs).
+The glyph SVGs in this repository are often based on model from the JSesh Glyph library, notably those made by S.J.P. Thomas (see https://jsesh.qenherkhopeshef.org/glyphs).
 
 S.J.P. Thomas, the original author of the glyphs allows for the following usages:
 - It is ok to **use the hieroglyph SVGs in JSesh** (https://jsesh.qenherkhopeshef.org/).
