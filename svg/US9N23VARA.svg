@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="535.91705"
+   height="552.49878"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <path
+     id="path1"
+     style="fill:#000000;stroke:none;stroke-width:100"
+     d="M 0.97740654,0 V 78.359375 H 154.97852 L 308.21484,473.63867 H 0 V 552 l 535.91705,0.49877 -1.02731,-77.84593 L 388.31641,473.63867 235.08008,78.359375 534.49713,79.373541 535.23828,0 Z" />
+</svg>

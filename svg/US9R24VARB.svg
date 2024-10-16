@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1799.9974"
+   height="640.80078"
+   id="svg1389"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata1396">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>7/01/2006</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Serge Thomas</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Serge Rosmorduc</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>US22</dc:identifier>
+        <dc:description>optimisation simple du signe R24</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1394" />
+  <path
+     id="path1391"
+     style="fill:#000000;stroke:none;stroke-width:110.094"
+     d="m 0.18524459,600.62777 c 11.69288041,26.6946 25.57866041,40.0422 41.65625041,40.0422 13.15446,0 25.57664,-7.6267 37.26953,-22.8808 19.97952,-145.9821 85.340385,-144.7539 202.719035,-206.71852 v 221.82792 c 437.65625,-98.1115 803.77034,-87.7159 1233.43304,-3.0303 V 409.4825 c 102.9215,41.95037 164.5967,53.52077 205.6214,208.43917 11.693,15.254 24.117,22.8791 37.2714,22.8791 16.0778,0 29.9633,-13.3459 41.6563,-40.0405 -6.526,-124.7918 -153.1551,-245.58759 -247.1175,-280.29363 109.5098,-50.6451 252.3499,-127.74538 247.1175,-280.29366 -11.693,-26.69456 -25.5785,-40.04218 -41.6563,-40.04218 -13.1544,0 -25.5784,7.62839 -37.2714,22.88246 -19.7839,144.55241 -90.9829,147.90627 -205.6214,208.11647 V 3.17647 C 1077.8787,77.84077 711.21176,80.231983 281.83006,6.206773 V 235.65993 C 176.01782,192.54305 120.58938,179.5135 79.111025,22.88247 67.418135,7.62849 54.995955,0 41.841495,0 25.763905,0 11.878125,13.34764 0.18524459,40.04219 6.7110246,164.83391 147.27989,288.66003 241.24217,323.36614 131.73235,374.01119 -5.0473254,448.07947 0.18524459,600.62777 Z M 354.17967,529.49517 V 323.36614 109.61017 c 27.35016,5.1284 60.7169,9.18909 96.25391,12.82818 v 389.06812 c -35.29629,5.2751 -67.93552,11.1954 -96.25391,17.9887 z m 141.25391,-24.2074 V 126.84633 c 1.2681,0.10358 2.32335,0.24937 3.59766,0.35163 242.129,19.4299 541.27846,9.36646 805.40756,-9.0588 v 384.68741 c -247.7849,-31.3557 -552.2384,-29.5572 -805.40756,1.9788 -1.22828,0.153 -2.37435,0.328 -3.59766,0.4824 z m 854.00522,4.0802 v -394.6312 c 33.1218,-2.56927 65.0177,-5.24519 93.4766,-8.1569 v 213.75597 206.12903 c -27.0959,-6.4552 -59.3571,-11.9725 -93.4766,-17.0969 z" />
+</svg>

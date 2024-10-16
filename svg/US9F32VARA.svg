@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1800"
+   height="440.26434"
+   id="svg2379"
+   version="1.0"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata2386">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:description>une des expression du signe F32 dans TT192&#10;phon : X, Xt.&#10;A few changes by S.R. : bolder lines, replaced thin parts with black areas.</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Serge ROSMORDUC</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Serge THOMAS</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2384" />
+  <path
+     id="path1"
+     style="color:#000000;fill:#000000;stroke-width:0.985409;stroke-linecap:square;-inkscape-stroke:none"
+     d="m 283.89222,0 v 99.699564 c -14.81151,-0.59191 -23.72509,-0.7274 -42.7787,0.25982 V 2.3461219 H 130.21455 V 123.32821 c -25.06911,10.76161 -36.775479,12.68602 -59.082233,28.91452 H 0 v 140.46921 h 72.656622 c 22.086423,12.75161 34.984698,16.55637 57.557928,23.73535 v 121.47099 h 110.89897 v -93.16937 c 13.46909,0.95594 21.94277,1.33877 42.7787,0.5062 v 95.00923 h 110.89705 v -113.2393 c 22.62141,-7.1188 39.83156,-14.81454 54.8288,-23.77107 v 79.31199 c 9.8e-4,13.60506 11.03018,24.63386 24.63523,24.63524 h 99.07406 c 13.60505,0 24.63387,-11.03018 24.63523,-24.63524 v -89.05831 c 31.18404,12.55003 71.15749,23.29725 121.14378,32.54547 111.32692,20.59693 259.87814,31.87948 414.98233,31.87948 155.105,0 303.6556,-11.28255 414.9826,-31.87948 95.4062,-13.15395 194.3583,-47.00321 250.931,-103.57578 -47.1931,-47.19298 -159.8515,-85.25754 -250.8944,-103.56807 -111.3567,-20.754376 -259.9318,-31.887233 -415.0192,-31.887233 -155.10418,0 -303.65541,11.282827 -414.98233,31.879533 -50.02006,9.25431 -89.96519,20.01989 -121.14378,32.58395 V 62.388733 C 597.96161,48.783658 586.93241,37.754858 573.32736,37.753499 H 474.2533 c -13.60505,9.84e-4 -24.63387,11.030159 -24.63523,24.635234 v 79.319687 c -16.52832,-9.8662 -34.19213,-17.28456 -54.8288,-23.77879 V 0 Z m 40.31133,40.313246 h 30.27246 v 49.93639 h -30.27246 z m -153.67576,2.346123 h 30.27248 v 49.93639 h -30.27248 z m 328.36074,44.364599 h 49.8036 V 357.93073 h -49.8036 z m 635.20017,56.437772 c 152.3573,0 298.6922,11.17738 404.6781,30.93069 79.2393,14.76855 110.4314,27.12408 147.8942,47.87512 -33.8512,17.96361 -74.8075,34.77373 -147.8577,48.28892 -106.0686,19.62394 -252.375,30.93647 -404.7146,30.93647 -152.33887,0 -298.64586,-11.31253 -404.71445,-30.93647 -93.78009,-17.35043 -125.63457,-30.33314 -131.41166,-32.8919 v -24.00588 c 33.56786,-19.55144 100.47364,-33.53657 131.41166,-39.26049 106.06859,-19.62394 252.37559,-30.93646 404.71445,-30.93646 z m -871.27308,12.21562 c 111.24595,0 186.25199,39.71902 186.25199,66.79998 0,27.08339 -75.01208,66.79997 -186.25199,66.79997 -69.58905,1.47347 -141.01055,-21.43315 -188.688582,-47.22851 l -33.813786,-0.25844 v -38.48938 l 33.813786,0.0496 C 119.64488,174.15427 180.90119,155.67736 262.81562,155.67736 Z m -92.28783,187.29702 h 30.27248 v 54.63061 h -30.27248 z m 153.67576,2.34616 h 30.27246 v 54.63061 h -30.27246 z" />
+</svg>

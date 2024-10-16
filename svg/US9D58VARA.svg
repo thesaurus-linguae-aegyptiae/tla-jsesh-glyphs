@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg1290"
+   height="1801.4087"
+   width="1343.4948"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs3" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/2.0/" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>JSesh hieroglyph</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Serge Rosmorduc</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Sign from Karnak Hypostyle Hall&#10;</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path2143"
+     d="m 1343.4948,0.03357253 c 0,0 -359.8625,5.25583837 -401.80333,0.16775821 -23.2961,-2.82618414 -26.20309,24.74500526 -30.56911,42.32330526 -10.71837,62.704094 22.47159,116.336314 -7.72623,202.140314 -12.44035,46.42799 3.96792,122.15914 3.96792,122.15914 -78.65197,332.14613 -190.539,872.12801 -281.10615,1052.19291 -52.91147,105.1982 -66.75961,140.1291 -215.1671,176.9423 -60.97122,15.1242 -225.78582,53.7974 -287.234,65.0695 -36.288269,-0.3599 -69.463364,16.592 -105.17864,32.4663 -21.1063218,16.2076 -28.3810408,60.5634 -0.137246,74.1507 69.338385,37.1885 194.987056,35.0217 270.473566,20.6468 67.88723,-11.5301 138.26924,-0.1935 206.44174,-9.8271 46.66308,-4.0559 97.07269,-12.7405 140.19187,10.7793 35.92463,15.9305 167.35467,17.2849 207.1861,-2.3567 31.41338,-19.5984 51.31772,-55.7502 57.20966,-91.401 14.55099,-88.0448 -52.26783,-148.3583 -27.25117,-275.5167 89.47871,-454.81586 282.41602,-687.96644 273.40192,-877.42845 -3.1357,-65.90703 -6.7921,-135.14012 2.58,-170.50486 C 1221.517,252.97233 1281.1625,125.49744 1343.4948,0.03357253 Z M 1236.0401,67.260642 C 1210.6317,174.56293 1123.39,253.88091 1086.1047,352.98436 c -9.137,34.09958 8.9806,149.35565 7.981,166.57591 -17.1746,295.88255 -249.15792,617.78573 -285.42531,927.49583 -10.41793,88.9653 56.13077,150.1963 31.89693,230.2828 -27.36466,90.4332 -117.56008,70.4489 -151.93349,49.4908 -40.55513,-15.6114 -69.89383,-15.7006 -115.28856,-12.7312 -82.69632,-0.9701 -163.69319,9.1145 -245.68026,17.1102 -45.50785,6.4787 -159.32443,8.9968 -205.54365,8.0962 -61.303563,-25.3213 294.86245,-51.9797 372.88288,-79.6094 141.96148,-50.2734 137.69239,-105.812 188.072,-201.9679 84.23157,-160.7667 200.69967,-710.81124 290.17223,-1071.00168 4.17624,-16.81228 -19.80864,-83.48758 -11.51063,-114.45612 14.14214,-21.2132 31.36272,-177.077252 18.98835,-210.664824 24.08631,5.571849 231.23761,0.08381 255.32391,5.655666 z"
+     style="display:inline;opacity:0.994152;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:49.0745;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+</svg>

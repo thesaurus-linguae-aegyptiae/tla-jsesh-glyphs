@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1910.1632"
+   height="843.34448"
+   id="svg1781"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata1788">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:description>pour rendre le signe : D66 de la classification de Bob Richmond</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Serge Thomas</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Serge Rosmorduc</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:date>17/04/06</dc:date>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1786" />
+  <path
+     id="path1783"
+     style="fill:#000000;stroke:none;stroke-width:85.3141"
+     d="M 1732.9141,0.07421875 C 1643.3107,2.3072526 1636.5151,54.369486 1566.0781,153.63867 1455.9278,217.97819 1186.0163,396.70539 1064.5449,563.87891 861.156,439.83946 639.25807,420.89575 543.86328,388.60547 521.93748,365.28628 499.80972,341.78196 484.49805,321.18359 L 703.46438,125.79044 647.3843,66.788492 437.03516,255.76953 c -26.69326,-17.39049 -66.86364,-22.128 -121.16602,-13.59765 l -82.54297,15.15429 c -46.0319,18.44026 -69.32663,64.2228 -69.88476,137.34766 -12.10287,59.21004 -7.68757,85.33057 13.24414,78.35937 20.93177,-6.97116 32.39369,-19.3418 34.38867,-37.10937 l 25.93164,9.84765 L 0,670.89648 46.654297,732.48242 325.63477,470.41406 c 19.79433,3.36807 54.30199,7.49587 152.37304,10.5918 0.086,0.0197 0.15631,0.033 0.24219,0.0527 30.84727,34.13061 18.95857,19.65775 76.98242,67.93555 102.15968,85.00031 340.7983,172.94669 555.77348,294.34961 321.6512,-208.63077 522.3107,-395.60268 612.5703,-505.64258 99.1135,-28.00626 162.5785,2.94787 176.455,-55.80469 6.473,-27.40503 20.7089,-263.352269 -3.2382,-267.568355 -28.6366,-5.0417147 -57.8179,-7.5606409 -86.8164,-7.8066406 -31.2972,-4.8240234 -56.3848,-6.96258116 -77.0625,-6.44726565 z m 64.8886,62.77148425 c 8.6331,-0.115975 17.9308,0.05733 27.959,0.539063 29.8809,1.435421 19.8564,190.428294 -16.0097,192.863284 -144.5519,9.81382 -69.6952,32.30731 -202.7559,122.33984 -133.0607,90.03254 -232.1136,222.65253 -316.7734,277.51953 -84.6598,54.86713 -97.5793,64.52292 -193.0684,100.51367 C 888.51581,610.01451 625.71518,544.40115 540.21289,479.96094 c -19.10501,-14.39882 -3.7082,-46.97151 36.01172,-26.35156 84.19763,43.70977 314.4766,80.13399 502.18749,194.39648 165.9709,-199.64614 501.4369,-363.49004 564.1777,-451.89844 45.9676,-64.77308 25.7164,-131.522095 155.2129,-133.261717 z M 314.47266,352.63281 c 6.83673,-0.51556 14.56071,0.68277 19.60937,0.92774 l -38.05469,36.14843 4.38477,-27.27929 c 1.11799,-6.9546 7.09957,-9.27195 14.06055,-9.79688 z" />
+</svg>
