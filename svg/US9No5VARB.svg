@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   width="1800"
+   height="1800"
+   sodipodi:docname="US9No5VARB.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="0.27480694"
+     inkscape:cx="371.16967"
+     inkscape:cy="1009.7998"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="path4"
+     style="fill:#000000;stroke:none"
+     d="M 3.5371094 -1.5273438 L 3.5371094 804.93945 L 138.50586 804.93945 L 138.50586 -1.5273438 L 3.5371094 -1.5273438 z M 458.99609 -1.5273438 L 458.99609 804.93945 L 593.96484 804.93945 L 593.96484 -1.5273438 L 458.99609 -1.5273438 z M 914.45312 -1.5273438 L 914.45312 804.93945 L 1049.4219 804.93945 L 1049.4219 -1.5273438 L 914.45312 -1.5273438 z M 259.10547 999.29688 L 259.10547 1805.7637 L 394.07422 1805.7637 L 394.07422 999.29688 L 259.10547 999.29688 z M 714.5625 999.29688 L 714.5625 1805.7637 L 849.53125 1805.7637 L 849.53125 999.29688 L 714.5625 999.29688 z " />
+</svg>

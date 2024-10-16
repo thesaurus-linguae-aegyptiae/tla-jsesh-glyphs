@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1795.071"
+   height="1802.7598"
+   id="svg2"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title3799">P5I</title>
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1">
+      <path
+         d="M 0,0 H 202.39118 V 174.15055 H 0 Z"
+         id="path1" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>P5I</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>S. Rosmorduc</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Freehand drawing.</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path8"
+     style="color:#000000;display:inline;fill:#000000;stroke-width:0.941692;stroke-linecap:square;-inkscape-stroke:none"
+     d="M 787.88931,0 V 214.19531 L 0,217.02374 V 330.0257 H 151.63281 C 62.237405,501.22936 38.504716,666.33121 57.689906,775.42022 100.71075,1020.0412 483.96224,1163.4015 787.88931,1178.5489 v 624.2109 h 113.00391 v -620.1152 c 274.53298,4.2388 619.72848,-5.6532 894.17758,-11.5234 -129.3242,-116.4671 -292.7213,-228.16447 -365.6836,-390.22461 -29.0282,-76.48971 -48.3106,-330.38558 212.1075,-453.69932 h 135.5391 V 214.19531 H 900.89322 V 0 Z M 237.16406,330.0257 787.88931,327.19727 V 1101.6329 C 383.63928,1081.463 158.0042,910.87762 131.88716,762.37335 116.33339,673.93293 137.77421,511.36515 237.16406,330.0257 Z m 663.72916,-2.82843 H 1490.233 c -172.2511,121.59344 -168.156,383.25971 -131.2793,480.42979 42.3911,111.70045 154.2965,210.90794 242.8534,292.34374 -231.0376,5.1593 -515.3893,10.009 -700.91388,5.6758 z" />
+</svg>
