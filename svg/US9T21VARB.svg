@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="600.48077"
+   height="1796.7084"
+   viewBox="0 0 600.48077 1796.7084"
+   version="1.1"
+   id="svg1691"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1688">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1">
+      <path
+         d="M 0,0 H 124.43852 V 129.53846 H 0 Z"
+         id="path1068" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <path
+     style="stroke-linecap:round"
+     d="M 600.48078,15.266297 V 1796.6804 c -42.90352,1.8654 -54.49104,-89.8419 -107.77149,-177.6895 -33.68507,-55.5392 -89.91713,-170.9282 -161.51126,-262.5228 -71.59414,-91.5946 -155.0162,-184.2942 -200.27404,-218.1118 -74.347679,-55.5541 -131.68532283,-88.6607 -130.91634563,-98.5547 1.27814593,-16.4451 37.30175763,-2.7212 136.14891563,38.2421 117.59521,48.7327 198.90487,131.8327 268.3457,197.5957 27.70556,26.2382 59.42027,52.7272 79.78516,82.543 V 15.266297 c 1.61317,-21.1531131 112.96806,-19.5410596 116.19336,0 z"
+     id="path1" />
+</svg>

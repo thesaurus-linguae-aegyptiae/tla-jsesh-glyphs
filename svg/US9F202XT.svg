@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg2"
+   height="1800.3571"
+   width="730.86914"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs3" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer2"
+     transform="translate(-789.20896,-0.54714927)">
+    <path
+       id="path1310"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:7.36766;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+       d="M 1160.6601 0.80886802 C 1151.2375 1.0872281 1150.5199 31.118549 1136.8906 75.484649 C 1121.3142 126.18876 1109.8807 232.21034 1073.9043 252.7952 C 1053.6603 264.3783 1034.5491 247.33757 1010.8008 254.97098 C 993.93073 260.39348 985.04163 286.68603 967.27927 289.78738 C 893.6502 302.64326 792.91436 297.78161 736.62498 302.84207 C 699.96237 306.13807 799.77095 379.20217 897.64841 377.13699 C 951.31911 375.97882 1012.8416 371.32233 1058.6719 390.19363 C 1086.8252 401.78615 1120.1077 435.45338 1119.5996 468.52957 L 1108.3554 1200.4007 L 982.12693 1200.4007 L 818.23826 1800.9046 L 1520.0781 1800.9046 L 1334.9238 1200.4007 L 1216.2148 1200.4007 L 1210.8828 342.82449 C 1210.7345 313.38783 1295.619 293.4322 1306.7344 268.02566 C 1326.0828 223.80062 1316.1904 28.73593 1284.9746 2.5549618 C 1271.2199 -8.9811807 1244.6798 205.47842 1202.2871 250.61941 C 1193.5549 259.91768 1167.2661 258.72102 1169.6465 250.61941 C 1195.8882 161.30658 1206.4547 31.005166 1165.2949 2.5549618 C 1163.5305 1.3354102 1162.0062 0.76910229 1160.6601 0.80886802 z M 1032.1679 1255.4456 L 1286.1328 1255.4456 L 1193.5547 1419.3343 L 1288.6347 1745.8596 L 1045.9297 1745.8596 L 1129.75 1419.3343 L 1032.1679 1255.4456 z M 1018.4062 1309.2405 L 1085.9629 1419.3343 L 1003.3945 1745.8596 L 899.55662 1745.8596 L 1018.4062 1309.2405 z M 1301.1445 1309.2405 L 1435.0078 1745.8596 L 1331.1699 1745.8596 L 1237.3398 1419.3343 L 1301.1445 1309.2405 z " />
+  </g>
+</svg>

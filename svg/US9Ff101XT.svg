@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg1290"
+   height="1801.554"
+   width="382.96167"
+   version="1.1"
+   viewBox="0 0 359.02657 1688.9568"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs3" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/2.0/" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>JSesh hieroglyph</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Serge Rosmorduc</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Horizontal space filler.&#10;&#10;</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(224.0603,1091.734)">
+    <path
+       id="path1306"
+       d="m 113.77558,-960.02804 c 5.58026,-69.48146 -75.081356,-130.66586 -146.400278,-131.69956 -40.05039,-0.5798 -64.834866,38.5931 -73.845602,74.9909 -35.23538,142.33011 -25.12674,571.84199 -27.12393,642.71154 -5.30026,188.10179 59.43977,653.17725 30.99379,685.42871 -27.61954,31.31469 -62.49045,-23.25796 -92.67224,-27.71659 -48.83201,-7.21376 -24.01061,58.65072 -8.96335,83.41154 18.59347,30.59768 157.789085,194.36364 227.225954,222.42608 38.85612,15.70363 112.265846,9.28205 111.975466,-37.03679 C 134.27109,441.90925 103.30057,241.29261 97.965224,82.840512 91.124564,-120.31212 76.569334,-323.69478 93.228034,-526.62555 105.04476,-670.57019 102.29836,-817.12612 113.77596,-960.02804 Z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:457.774;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+       transform="translate(-3.9183201e-6,2.7384548e-5)" />
+  </g>
+</svg>

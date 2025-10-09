@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1558.885"
+   height="1727.4392"
+   id="svg1977"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata1984">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>30/09/06</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>SR &amp; ST</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Serge Rosmorduc</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:description>variante optimisée du signe Jsesh D63</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1982" />
+  <path
+     id="path1979"
+     style="fill:#000000;stroke:none;stroke-width:101.54"
+     d="M 539.48073,0 C 387.7779,28.743718 224.09748,55.891533 48.441667,81.441406 30.87603,132.54135 30.87603,184.44001 48.441667,237.13672 222.50066,264.28354 354.2435,296.2212 443.66823,332.94922 v 269.50586 c -201.78225,43.72193 -233.77998,108.6014 -284.25586,156.97851 -5.21108,36.1819 24.70417,60.02457 73.53906,60.81055 30.93848,-26.83523 113.27956,-127.10668 210.7168,-103.23828 V 1240.7715 H 340.67018 c -97.52817,8.1254 -189.74435,41.6849 -286.849607,203.207 -80.642221,134.1373 -70.661393,224.3608 29.941407,270.6699 213.10352,78.8603 258.58746,-226.7829 258.58746,-373.9004 388.13479,1.3499 1216.53576,-0.7889 1216.53576,-0.7889 l -1.4865,-99.1876 V 0 c -151.7029,28.743718 -315.3833,56.689176 -491.0391,83.835938 -17.5655,49.503062 -17.5655,100.604072 0,153.300782 175.6558,27.14682 307.3985,59.08448 395.2266,95.8125 v 235.4375 c -196.6691,43.70127 -228.7886,107.7755 -278.7832,155.6914 -5.2111,36.1819 24.7042,60.02457 73.539,60.81055 30.3532,-26.32748 110.2238,-123.0453 205.2442,-104.16797 v 560.0508 H 539.48073 Z M 446.06472,95.8125 V 222.76367 C 363.02741,211.58558 267.21447,201.20626 158.62722,191.625 c -14.37187,-20.75935 -14.37187,-41.51806 0,-62.27734 108.58725,-7.98439 204.40019,-19.1633 287.4375,-33.53516 z m 1017.91598,0 v 126.95117 c -83.0372,-11.17809 -178.8503,-21.55741 -287.4375,-31.13867 -14.3718,-20.75935 -14.3718,-41.51806 0,-62.27734 108.5872,-7.98439 204.4003,-19.1633 287.4375,-33.53516 z M 249.03737,1343.375 c -6.38759,118.1685 -18.3642,195.2168 -35.92969,231.1465 -17.56568,35.9295 -38.72323,57.8868 -63.47461,65.8711 -24.75147,7.9845 -42.31757,0 -52.697262,-23.9512 -10.37979,-23.9533 -8.782471,-54.6942 4.791012,-92.2207 13.57329,-37.5265 62.67614,-97.8084 147.31055,-180.8457 z" />
+</svg>

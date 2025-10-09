@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="927.84399"
+   height="1798.7452"
+   id="svg2"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>09/10/06</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>SR &amp; ST</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Serge Rosmorduc</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:description>optimisation du signe M31 de Jsesh</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7" />
+  <path
+     style="fill:#000000;stroke:none;stroke-width:100.478"
+     d="M 547.67694,319.1181 C 560.62662,285.81883 565.2515,248.81963 561.55159,208.12052 557.85167,139.67197 554.15175,87.8731 550.45183,52.723902 546.75191,17.574634 566.30322,0 597.75257,0 c 29.59936,0 48.68818,17.574634 45.91326,52.723902 -2.77499,35.149198 -6.93737,86.948068 -12.48725,155.396618 -3.69988,42.54904 0.9254,79.54823 13.87465,110.99758 H 814.70741 C 827.65709,285.81883 831.35702,248.81963 825.80717,208.12052 822.10718,139.67197 818.40727,87.8731 814.70741,52.723902 811.0075,17.574634 830.55879,0 862.00807,0 c 31.44935,0 53.2713,17.574634 49.57138,52.723902 -3.69988,35.149198 -8.32486,86.948068 -13.87474,155.396618 6.97425,105.98903 28.11077,143.42934 30.139,144.29685 -111.3278,666.83023 -247.50926,896.26433 -357.33502,1135.69733 -11.54953,25.1792 221.23957,279.4777 210.70045,310.6305 H 167.73656 C 159.96011,1768.3829 379.9801,1513.957 369.79692,1488.3765 261.18624,1215.5427 77.430565,1023.5648 0,352.41737 4.361561,323.40089 19.665351,295.43837 25.597618,208.12052 20.047769,139.67197 15.885355,87.8731 13.110365,52.723902 10.335445,17.574634 29.424256,0 59.023615,0 90.472977,0 110.48674,17.574634 107.71175,52.723902 104.93686,87.8731 100.77448,139.67197 95.224612,208.12052 c -3.699886,40.69911 0.925399,77.69831 13.874638,110.99758 h 168.01452 c 12.94968,-31.44935 17.5746,-68.44854 13.87474,-110.99758 C 285.4386,139.67197 281.27618,87.8731 278.50126,52.723902 275.72634,17.574634 294.6048,0 326.05408,0 c 29.59936,0 49.8235,17.574634 47.04858,52.723902 -2.77499,35.149198 -6.93737,86.948068 -12.48725,155.396618 -3.69989,40.69911 0.9254,77.69831 13.87475,110.99758 z m 70.87461,1385.2792 C 544.04757,1617.882 486.50065,1574.379 509.03128,1489.5594 573.31121,1247.5689 796.92245,869.40305 819.87442,416.24103 H 107.96914 c -30.868794,440.69952 320.95205,861.61977 330.51193,1073.50927 3.70159,82.0434 -47.70671,136.9758 -103.27013,216.2525 z"
+     id="path4" />
+</svg>

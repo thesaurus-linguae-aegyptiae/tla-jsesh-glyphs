@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1335.4301"
+   height="1397.5356"
+   id="svg3328"
+   version="1.1"
+   sodipodi:docname="US9D28VARB.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.31723122"
+     inkscape:cx="754.96984"
+     inkscape:cy="901.55062"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3328" />
+  <metadata
+     id="metadata3335">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:description>variante optimisée du signe D28 de Jsesh.
+valeur phonétique :kA</dc:description>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>SR &amp; ST</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Serge Rosmorduc</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:date>17/04/06</dc:date>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3333" />
+  <path
+     style="fill:#000000;stroke:none;stroke-width:103.974"
+     d="m 568.26051,1035.9623 c 101.51812,-19.0091 144.97004,-6.5657 199.27325,0 v 189.7205 c 237.05204,-6.0178 229.90262,-17.5524 335.30634,-34.6033 0,-196.8733 7.8401,-393.74679 23.5203,-590.62042 -43.5561,-139.37945 -61.8496,-247.39856 -54.8807,-324.05733 1.7419,-50.52503 5.2264,-96.69446 10.4535,-138.5083 22.6491,-27.87588 42.6849,-27.00475 60.1076,2.61338 -10.4536,57.49402 -15.6804,106.27682 -15.6804,146.34841 0,113.24589 21.778,168.12658 65.3341,164.64205 24.3915,0 40.5072,-18.72911 48.3471,-56.18733 7.8404,-37.45822 13.5029,-85.80547 16.9872,-145.04175 3.4846,-36.58712 -1.7422,-75.78761 -15.6803,-117.60146 -10.4535,-33.102595 -21.7781,-67.076358 -33.9738,-101.921292 8.7112,-34.8448604 27.0047,-40.0715827 54.8806,-15.680167 45.2988,60.978539 69.6901,148.090689 73.1743,261.336459 -13.9377,88.85456 -45.2981,214.29613 -94.0811,376.32471 17.4225,130.6683 30.4894,310.11933 39.2006,538.35304 6.9692,76.659 -14.8089,126.3131 -65.3342,148.9622 -142.864,38.3293 -325.79966,57.4939 -548.80678,57.4939 v 0 c -221.26485,0 -404.2004,-19.1646 -548.80664,-57.4939 C 68.818594,1317.3926 47.911676,1267.7385 54.880649,1191.0795 63.591884,962.84579 76.658698,783.39476 94.08109,652.72646 45.29836,490.69788 13.937945,365.25631 0,276.40175 3.4844474,163.15598 27.87589,76.04383 73.17425,15.065291 101.05014,-9.3261247 119.34366,-4.0994024 128.0549,30.745458 115.85922,65.590392 104.53459,99.564155 94.08109,132.66675 80.143223,174.4806 74.916513,213.68109 78.40096,250.26821 c 3.484525,59.23628 9.146801,107.58353 16.986905,145.04175 7.840105,37.45822 23.955795,56.18733 48.347245,56.18733 43.55602,3.48453 65.33407,-51.39616 65.33407,-164.64205 0,-40.07159 -5.22671,-88.85439 -15.68021,-146.34841 17.42247,-29.61813 37.45825,-30.48926 60.10743,-2.61338 5.22671,41.81384 8.71116,87.98327 10.45342,138.5083 6.96898,76.65877 -11.32455,184.67788 -54.88064,324.05733 15.6802,196.87363 23.52031,393.74712 23.52031,590.62042 107.9292,17.4592 93.57495,29.1346 335.67102,35.0263 z"
+     id="path3330" />
+</svg>
