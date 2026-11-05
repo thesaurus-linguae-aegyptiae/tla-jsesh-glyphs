@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1054.8369"
+   height="1800"
+   id="svg2907"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata2914">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Serge Thomas</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Serge Rosmorduc</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:date>18/03/06</dc:date>
+        <dc:description>valeur phonétique :anx&#10;dernière variante retenue pour mes créations de groupes</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:prohibits
+           rdf:resource="http://web.resource.org/cc/CommercialUse" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2912" />
+  <path
+     style="fill:#000000;stroke:none;stroke-width:0.999999"
+     d="m 597.27608,816.01917 291.21765,-51.52229 v 41.52229 l 166.34317,-41.52229 v 167.77516 l -166.34317,-40.7403 v 40.7403 l -317.21765,-46.7403 c 14.57864,116.62916 26,914.46506 26,914.46506 H 452.90382 c 0,0 11.42136,-786.173 26,-914.46506 l -310.56056,46.7403 v -40.7403 L 0,932.27204 V 764.49688 l 168.34326,41.52229 v -41.52229 l 289.21769,51.52229 C 168.81635,300.62556 192.10221,23.285838 527.41857,0 c 335.3163,21.733495 358.60215,299.07322 69.85751,816.01917 z m -69.85751,-54.57164 c 242.1728,-419.14544 242.1728,-643.46585 0,-672.961275 -242.17292,29.495425 -242.17292,253.815835 0,672.961275 z"
+     id="path2909" />
+</svg>

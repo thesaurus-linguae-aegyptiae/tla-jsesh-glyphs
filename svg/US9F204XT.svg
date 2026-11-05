@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg1290"
+   height="1341.6968"
+   width="1174.2617"
+   version="1.1"
+   viewBox="0 0 1100.8704 1257.8408"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs3" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/2.0/" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>JSesh hieroglyph</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Serge Rosmorduc</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Sign from a Sethy the Ist relief in the Louvre.&#10;</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path4386"
+     style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 234.27213,0.04720204 c -29.60845,0.4722 -56.69414,4.48789996 -81.25488,12.04650996 10.07211,47.85762 41.25015,88.798738 93.52112,122.799688 52.26977,34.013 100.13004,86.28443 143.58399,156.81336 43.45274,70.52893 78.72035,123.74311 105.80017,159.64233 17.69786,23.46181 40.05634,44.31711 66.89942,62.66601 H 23.384058 c -19.4113226,0.005 -30.3696653,22.28771 -18.5229497,37.6648 68.4167597,88.776 154.8131217,163.1272 196.1810417,253.5718 59.78784,130.7162 77.98668,286.6683 118.60291,435.3644 2.77888,10.1698 12.01779,17.2236 22.56042,17.2247 h 456.12123 c 10.88547,-10e-4 20.33134,-7.5112 22.7856,-18.1164 35.1862,-152.1294 48.6628,-298.988 103.1067,-435.5384 34.4682,-86.4479 112.49289,-167.8239 172.42129,-253.3649 10.8535,-15.5001 -0.2325,-36.80186 -19.1547,-36.806 H 795.64601 c 44.1404,-33.65 57.7901,-84.53133 50.7367,-134.45251 C 828.08371,250.0157 742.22891,189.74031 648.00811,126.39364 588.75689,86.564662 504.73717,57.435662 403.34623,27.207242 339.9769,8.314482 283.61956,-0.73979796 234.27213,0.04720204 Z M 244.94718,46.325282 c 161.37977,27.22723 313.9515,86.481038 381.33543,128.051148 67.384,41.55803 129.0271,109.25473 152.9572,153.33985 23.9312,44.08511 24.7438,119.81316 -26.2225,152.01232 C 632.29471,555.9889 515.22422,426.441 421.481,239.18661 389.47409,175.25204 301.20579,101.97217 244.94718,46.325282 Z M 72.919588,560.7912 H 1031.1416 c -53.19799,69.5259 -116.81379,141.9063 -150.37169,226.0712 -55.3334,138.7812 -69.9956,282.0212 -101.3232,424.2041 h -419.209 C 324.01903,1071.7884 305.09836,920.2978 243.57938,785.7967 203.45731,698.076 132.68683,630.1788 72.919588,560.7912 Z" />
+</svg>
